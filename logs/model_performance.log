@@ -1,0 +1,33 @@
+2023-11-07 18:37:33,421 - INFO: rmse: 72.57272053787979 - Trained model with data splits
+2023-11-07 18:37:33,421 - INFO: rmlse: nan - Trained model with data splits
+2023-11-07 18:37:33,421 - INFO: mean_percentage_error: 30.60252488237369 - Trained model with data splits
+2023-11-07 18:38:35,422 - INFO: rmse: 72.57272053787979 - Trained model with data splits
+2023-11-07 18:38:35,422 - INFO: rmlse: nan - Trained model with data splits
+2023-11-07 18:38:35,422 - INFO: mean_percentage_error: 30.60252488237369 - Trained model with data splits
+2023-11-07 23:04:35,420 - INFO: rmse: 78.99020977023014 - Trained model with data splits
+2023-11-07 23:04:35,420 - INFO: rmlse: nan - Trained model with data splits
+2023-11-07 23:04:35,420 - INFO: mean_percentage_error: 32.70407024475733 - Trained model with data splits
+2023-11-07 23:05:21,686 - INFO: rmse: 78.99020977023014 - Trained model with data splits
+2023-11-07 23:05:21,686 - INFO: rmlse: nan - Trained model with data splits
+2023-11-07 23:05:21,686 - INFO: mean_percentage_error: 32.70407024475733 - Trained model with data splits
+2023-11-07 23:22:05,704 - INFO: rmse: 69.91129816930614 - Only inference on latest model
+2023-11-07 23:22:05,704 - INFO: rmlse: nan - Only inference on latest model
+2023-11-07 23:22:05,704 - INFO: mean_percentage_error: 47.28087692242968 - Only inference on latest model
+2023-11-07 23:25:32,901 - INFO: rmse: 69.91129816930614 - Only inference on latest model
+2023-11-07 23:25:32,901 - INFO: rmlse: 0.48586403411566814 - Only inference on latest model
+2023-11-07 23:25:32,901 - INFO: mean_percentage_error: 47.28087692242968 - Only inference on latest model
+2023-11-07 23:26:03,812 - INFO: rmse: 76.09765997014657 - Trained model with data splits
+2023-11-07 23:26:03,812 - INFO: rmlse: 0.38714918994239556 - Trained model with data splits
+2023-11-07 23:26:03,812 - INFO: mean_percentage_error: 32.67183908438366 - Trained model with data splits
+2023-11-08 00:24:20,289 - INFO: rmse: 74.72903936441091 - Trained model with data splits
+2023-11-08 00:24:20,289 - INFO: rmlse: 0.3744692699848146 - Trained model with data splits
+2023-11-08 00:24:20,289 - INFO: mean_percentage_error: 31.26389357900089 - Trained model with data splits
+2023-11-08 00:51:25,528 - INFO: rmse: 69.67374262851126 - Trained model with data splits
+2023-11-08 00:51:25,528 - INFO: rmlse: 0.3673540473110091 - Trained model with data splits
+2023-11-08 00:51:25,528 - INFO: mean_percentage_error: 31.4662445635717 - Trained model with data splits
+2023-11-08 01:41:56,075 - INFO: rmse: 69.67374262851126
+2023-11-08 01:41:56,075 - INFO: Trained model with data splits
+2023-11-08 01:41:56,075 - INFO: rmlse: 0.3673540473110091
+2023-11-08 01:41:56,075 - INFO: Trained model with data splits
+2023-11-08 01:41:56,075 - INFO: mean_percentage_error: 31.4662445635717
+2023-11-08 01:41:56,075 - INFO: Trained model with data splits

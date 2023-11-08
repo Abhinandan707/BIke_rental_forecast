@@ -1,0 +1,7 @@
+n_estimators: 413
+num_leaves: 37
+learning_rate: 0.08040924397296308
+feature_fraction: 0.7864858171788756
+max_depth: 13
+bagging_fraction: 0.980909904212945
+lambda_l1: 0.0001299555354247569
